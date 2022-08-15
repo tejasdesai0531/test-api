@@ -1,0 +1,29 @@
+{
+    "books": [
+        {
+            "name": "Sapiens",
+            "price": 419,
+            "release_date": "2015-04-30T07:00:00.000Z"
+        },
+        {
+            "name": "Black Holes: The Reith Lectures",
+            "price": 350,
+            "release_date": "2016-05-05T07:00:00.000Z"
+        },
+        {
+            "name": "Show Your Work!",
+            "price": 815,
+            "release_date": "2014-03-06T07:00:00.000Z"
+        },
+        {
+            "name": "Dream With Your Eyes Open",
+            "price": 726,
+            "release_date": "2016-02-01T07:00:00.000Z"
+        },
+        {
+            "name": "Complete MAUS",
+            "price": 599,
+            "release_date": "1998-03-25T07:00:00.000Z"
+        }
+    ]
+}
