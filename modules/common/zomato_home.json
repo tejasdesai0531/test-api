@@ -1,0 +1,106 @@
+{
+    "data": [
+        {
+            "type": "grid",
+            "title": "Eat What makes you happy",
+            "list": [
+                {
+                    "name": "Healthy",
+                    "url": "https://www.pngmart.com/files/7/Fresh-Healthy-Food-Background-PNG.png"
+                },
+                {
+                    "name": "Pizza",
+                    "url": "https://freepngimg.com/thumb/pizza/32-pizza-png-image.png"
+                },
+                {
+                    "name": "Burger",
+                    "url": "https://purepng.com/public/uploads/medium/purepng.com-fast-food-burgerburgerfast-foodhammeatfast-food-burgermc-donaldsburger-king-231519340201mh7zr.png"
+                },
+                {
+                    "name": "Sandwitch",
+                    "url": "https://pngimg.com/uploads/burger_sandwich/burger_sandwich_PNG4117.png"
+                },
+                {
+                    "name": "Chaat",
+                    "url": "https://image.freepik.com/free-photo/indian-spicy-chaat-item-sev-puri_55610-361.jpg"
+                },
+                {
+                    "name": "Fries",
+                    "url": "https://pngimg.com/uploads/fries/fries_PNG44.png"
+                },
+                {
+                    "name": "Home Style",
+                    "url": "https://www.kikkoman.com/en/foodforum/img/recipe-f-27-4-01.png"
+                },
+                {
+                    "name": "Wraps",
+                    "url": "https://webstockreview.net/images/burrito-clipart-sandwich-wrap-21.png"
+                },
+                {
+                    "name": "Chicken",
+                    "url": "https://webstockreview.net/images/burrito-clipart-sandwich-wrap-21.png"
+                },
+                {
+                    "name": "Rolts",
+                    "url": "https://webstockreview.net/images/burrito-clipart-sandwich-wrap-21.png"
+                },
+                {
+                    "name": "Pasta",
+                    "url": "https://webstockreview.net/images/burrito-clipart-sandwich-wrap-21.png"
+                },
+                {
+                    "name": "Biryani",
+                    "url": "https://webstockreview.net/images/burrito-clipart-sandwich-wrap-21.png"
+                },
+                {
+                    "name": "Bowl",
+                    "url": "https://webstockreview.net/images/burrito-clipart-sandwich-wrap-21.png"
+                },
+                {
+                    "name": "Cake",
+                    "url": "https://webstockreview.net/images/burrito-clipart-sandwich-wrap-21.png"
+                },
+                {
+                    "name": "Noodles",
+                    "url": "https://webstockreview.net/images/burrito-clipart-sandwich-wrap-21.png"
+                },
+                {
+                    "name": "Tea",
+                    "url": "https://webstockreview.net/images/burrito-clipart-sandwich-wrap-21.png"
+                }
+            ]
+        },
+        {
+            "type": "card",
+            "url": "https://images.csmonitor.com/csm/2017/02/1026871_1_0209-Pizza-Hut_standard.jpg",
+            "outlet_name": "",
+            "cuisines": "Pizza, Fast Food, Dessert",
+            "ratings": "4.3"
+        },
+        {
+            "type": "h_scroll_card",
+            "list": [
+                {
+                    "name": "Eva's Pizza",
+                    "url": "https://cryptonewsreview.com/wp-content/uploads/2018/04/pizza.jpg",
+                    "rating": "4.0"
+                },
+                {
+                    "name": "The Dough Therapy",
+                    "url": "https://b.zmtcdn.com/data/pictures/chains/1/19548251/c6accee5d145cbba16b97bf16b673e12.jpg",
+                    "rating": "4.2"
+                },
+                {
+                    "name": "BusaGo",
+                    "url": "https://b.zmtcdn.com/data/pictures/chains/7/43987/ff570a7edc471ede9ee07ae6064b2522_featured_v2.jpg",
+                    "rating": "4.4"
+                },
+                {
+                    "name": "The Barn Grill",
+                    "url": "https://b.zmtcdn.com/data/pictures/chains/1/18605981/1530864ccd77241a8fe3d0987ab94e67.jpgs",
+                    "rating": "4.5"
+                }
+            ]
+        }
+    ]
+}
