@@ -79,6 +79,7 @@
         },
         {
             "type": "h_scroll_card",
+            "title": "Promoted Restaurants",
             "list": [
                 {
                     "name": "Eva's Pizza",
